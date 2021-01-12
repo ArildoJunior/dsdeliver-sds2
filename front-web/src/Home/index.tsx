@@ -17,7 +17,7 @@ function Home() {
                    </a>
                </div> 
                <div className="home-image">
-                   <MainImage/>
+                   <MainImage />
                </div>
             </div>
         </div>
